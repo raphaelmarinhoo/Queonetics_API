@@ -5,7 +5,7 @@ Este é um sistema de gerenciamento de organizações, equipes de motoristas e g
 ## Requisitos
 
 - Python 3.x
-- Bibliotecas: `requests`
+- Bibliotecas: `requests`, `time`
 
 ## Configuração
 
